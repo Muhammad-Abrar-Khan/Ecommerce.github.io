@@ -1,0 +1,28 @@
+.mainImgText{
+    background-size: cover;
+    background-image: linear-gradient(to bottom, rgba(34, 54, 56, 0.541), rgba(33, 46, 39, 0.214)),
+    url('images/deal.jpg');
+    padding: 4rem 0; 
+    text-align: center;
+    color: white;
+}
+.mainBtn{
+    margin-top: 1rem;
+    font-size: 1.3rem;
+    border: 1px solid white;
+}
+.highlightText{
+    font-size: 2rem;
+    display: flex;
+    justify-content: center;
+    margin: 1.3rem 0;
+}
+.viewMore-el{
+    display: flex;
+    justify-content: center;
+    margin: 1.3rem 0;
+}
+.viewMore{
+    color: black;
+    font-size: 1.1rem;
+}
