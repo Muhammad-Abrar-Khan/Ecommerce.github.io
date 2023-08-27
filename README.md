@@ -9,7 +9,7 @@ Check out the live demo: [MakZone Demo](https://makzone.netlify.app/)
 ✨ **Responsive Design**: Seamlessly adapts to various screen sizes, ensuring a consistent experience across devices.
 ## Screen Recording
 
-![Screen Recording of Makzone Ecommerce Website](https://user-images.githubusercontent.com/85924018/261780089-dd7b1b63-b190-403c-9299-b4d3dd59b55e.webm)
+![makzone](https://github.com/Muhammad-Abrar-Khan/WE_Task1/assets/85924018/a633e770-2aa1-4c9f-94a8-5ec60dca77ac)
 
 ## 🚀 About Me
 👋 Hello! I'm Muhammad Abrar Khan, a dynamic junior software developer and front-end enthusiast. Currently pursuing a BSc in Computer Science at UBIT, Karachi University, my passion lies in crafting captivating web experiences. Proficient in Python, HTML, CSS, and JavaScript, I've delivered full-stack projects while specializing in front-end development. I'm driven by a continuous quest for knowledge, refining my skills through certifications and practical projects. From content creation to virtual assistance, my journey has been diverse, nurturing my creativity and problem-solving abilities. Let's connect and explore the ever-evolving world of software together!
